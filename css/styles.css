@@ -1,0 +1,28 @@
+.name{
+  font-variant: small-caps;
+  color:red;
+}
+.date{
+  font-size-adjust: auto;
+  font-size: 12pt;
+}
+.work-experience{
+  color: blue;
+}
+
+.education{
+  color: grey;
+}
+
+.skills{
+  text-shadow: 5px 5px purple;
+  font-size: 26pt;
+  text-align: center;
+}
+.important{
+  color:red;
+  font-stretch: ultra-expanded;
+}
+.mainres{
+  font-family: 'Indie Flower', cursive;
+}
